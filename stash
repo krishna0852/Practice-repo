@@ -1,2 +1,6 @@
 this is the new file called stash
+<<<<<<< Updated upstream
 this the new line after the stash entry`
+=======
+adding new line to this life to perform stashing operations
+>>>>>>> Stashed changes
