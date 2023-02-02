@@ -1,3 +1,7 @@
 this is my first line in this file
 adding new line to practice the stashing concepts
+<<<<<<< Updated upstream
 adding this line after the third line in this file
+=======
+adding one more line to analyze
+>>>>>>> Stashed changes
