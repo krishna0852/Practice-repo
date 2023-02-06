@@ -1,0 +1,12 @@
+build tools :
+
+Java --maven,gradle,ant
+.net --msbuild
+reactjs,node js --npm, yarn
+
+
+artifacts :
+java --war , ear , jar
+.net --exe , dll
+nodejs --zip
+php -zip4
